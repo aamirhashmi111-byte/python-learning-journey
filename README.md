@@ -1,3 +1,4 @@
 # python-learning-journey
-This repository documrnts my journey of learning Python,
+This repository documnts my journey of learning Python,
 AI/ML and Open Source contributions with healthcare focus.
+Day 3: I learned what branches and pull requests are.
